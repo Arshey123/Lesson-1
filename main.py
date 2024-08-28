@@ -1,1 +1,1 @@
-print("Arshey") yes
+print("Arshey")
